@@ -145,7 +145,7 @@ For each requirement, define:
 - [ ] **Then** (expected outcome)
 
 ### Examples:
-```
+```gherkin
 Given: User is logged in as an admin
 When: User navigates to the user management page
 Then: System displays list of all active users with edit/delete options

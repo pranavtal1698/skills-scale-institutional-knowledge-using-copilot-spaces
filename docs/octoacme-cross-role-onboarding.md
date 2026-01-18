@@ -437,10 +437,12 @@ Questions to ask new team member:
 
 ## Resources
 
-- [Project Documentation Repository Location]
-- [Team Communication Guidelines]
-- [Tool Access Request Process]
-- [Team Calendar and Meeting Schedule]
-- [Role-Specific Templates and Examples]
-- [FAQ Document]
-- [Contact Directory]
+**Note**: The following are placeholder links. Customize these for your organization:
+
+- Project Documentation Repository Location: `[Link - Replace with your actual docs URL]`
+- Team Communication Guidelines: `[Link - Replace with your actual guidelines URL]`
+- Tool Access Request Process: `[Link - Replace with your actual process URL]`
+- Team Calendar and Meeting Schedule: `[Link - Replace with your actual calendar URL]`
+- Role-Specific Templates and Examples: `[Link - Replace with your actual templates URL]`
+- FAQ Document: `[Link - Replace with your actual FAQ URL]`
+- Contact Directory: `[Link - Replace with your actual directory URL]`

@@ -3,6 +3,11 @@
 ## Purpose
 Provide ready-to-use onboarding templates for each role to ensure consistent and comprehensive onboarding experiences.
 
+**Note**: This document contains placeholder links marked as `[Link]`. Before using these templates, customize them by:
+- Replacing all `[Link]` placeholders with actual URLs to your tools, documentation, and resources
+- Updating `[Name]` and `[Date]` fields with actual information
+- Adjusting timelines and checklists to match your organization's specific needs
+
 ---
 
 ## Template: UX/UI Designer Onboarding
