@@ -14,8 +14,12 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Ensure all cross-functional roles are represented (Developers, QA, UX/UI, DevOps, etc.)
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Consider role-specific retrospectives for deep dives on specialized processes
+
+For onboarding improvements, use feedback from [Cross-Role Onboarding Best Practices](octoacme-cross-role-onboarding.md).
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

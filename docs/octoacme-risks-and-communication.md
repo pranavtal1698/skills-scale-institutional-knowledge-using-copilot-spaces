@@ -20,9 +20,12 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, security)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Ensure cross-functional teams are kept informed (UX/UI, DevOps, Security, Support, Business Analysts)
+
+For specific role-based communication patterns, see [Roles and Personas](octoacme-roles-and-personas.md).
 
 ## Communication Templates
 Weekly Status Template:
@@ -39,4 +42,7 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify Security Lead on-call
+- For infrastructure/deployment issues, escalate to DevOps Engineer
+- For customer-impacting issues, notify Support Lead immediately
+- For requirements clarification, involve Business Analyst
