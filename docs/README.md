@@ -4,9 +4,21 @@ Welcome to the OctoAcme project management documentation hub. This README serves
 
 ## Project Management Process Overview
 
-OctoAcme follows a customer-first, iterative approach to project management that emphasizes delivering value in small, testable increments. Our process is built on five core principles: prioritizing customer value and usability, delivering iteratively, maintaining clear ownership with named Project Managers and Product Leads for each initiative, making data-informed decisions by measuring impact and iterating based on evidence, and fostering psychological safety that encourages feedback and continuous learning.
+OctoAcme follows a customer-first, iterative approach to project management that emphasizes delivering value in small, testable increments. Our process is built on five core principles:
 
-Our project lifecycle consists of five key phases that guide work from concept to completion. Projects begin with **Initiation**, where we validate the business need, align stakeholders, and create a lightweight project one-pager that defines the problem, objectives, and success metrics. Next, **Planning** transforms approved initiatives into actionable plans by breaking work into shippable increments, identifying dependencies and risks, and creating release timelines. During **Execution**, teams follow a consistent rhythm of daily standups, weekly syncs, and regular demos while tracking progress through project boards and maintaining quality through comprehensive testing. The **Release** phase follows standardized deployment procedures with pre-release checklists, smoke tests, and rollback plans to minimize risk. Finally, the **Retrospective** phase captures learnings after each sprint or milestone and converts them into actionable improvements.
+- **Customer-first**: Prioritize customer value and usability
+- **Iterative delivery**: Deliver small, testable increments
+- **Clear ownership**: Named Project Managers and Product Leads for each initiative
+- **Data-informed decisions**: Measure impact and iterate based on evidence
+- **Psychological safety**: Encourage feedback and continuous learning
+
+Our project lifecycle consists of five key phases that guide work from concept to completion:
+
+- **Initiation**: Validate the business need, align stakeholders, and create a lightweight project one-pager that defines the problem, objectives, and success metrics
+- **Planning**: Transform approved initiatives into actionable plans by breaking work into shippable increments, identifying dependencies and risks, and creating release timelines
+- **Execution**: Follow a consistent rhythm of daily standups, weekly syncs, and regular demos while tracking progress through project boards and maintaining quality through comprehensive testing
+- **Release**: Follow standardized deployment procedures with pre-release checklists, smoke tests, and rollback plans to minimize risk
+- **Retrospective**: Capture learnings after each sprint or milestone and convert them into actionable improvements
 
 Communication and collaboration are central to how we work. Teams maintain a regular cadence with weekly syncs between Project and Product Managers, twice-weekly standups for delivery teams, and monthly stakeholder updates. We use GitHub Projects for tracking work through clearly defined columns (Backlog, Ready, In Progress, In Review, QA, Done), and we maintain key artifacts including project charters, roadmaps, sprint backlogs, risk registers, and retrospective notes to ensure transparency and alignment.
 
