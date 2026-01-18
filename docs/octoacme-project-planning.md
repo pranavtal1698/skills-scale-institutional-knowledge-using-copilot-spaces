@@ -9,12 +9,15 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Align timelines, releases, and responsibilities
 
 ## Activities
-1. Kickoff meeting with stakeholders and delivery team
+1. Kickoff meeting with stakeholders and delivery team (all relevant roles)
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Ensure all necessary cross-functional roles are engaged (UX/UI, DevOps, Security, Support, etc.)
+
+For requirements gathering best practices, see [Requirements Clarification Checklist](octoacme-requirements-clarification.md).
 
 ## Backlog Item Template
 - Title:

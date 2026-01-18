@@ -26,7 +26,7 @@ Quality is built into every stage through comprehensive practices including unit
 
 ## Team Structure & Roles
 
-OctoAcme projects involve three primary personas working together to deliver customer value:
+OctoAcme projects involve a comprehensive cross-functional team working together to deliver customer value:
 
 ### Product Managers
 Product Managers own the **"what"** — defining what should be built to deliver customer and business value. They own the product vision, prioritize the backlog based on customer needs and business impact, collaborate with stakeholders on trade-offs, and validate solutions through user research and metrics. Their goal is to maximize customer value through clear, data-driven prioritization decisions and ensure product-market fit.
@@ -37,6 +37,26 @@ Project Managers coordinate the **"how"** — managing delivery activities, sche
 ### Developers
 Developers execute the **"build"** — designing, building, testing, and delivering software components. They implement features that meet acceptance criteria, write and maintain tests and documentation, participate in design and code reviews, assist in estimating and planning work, and help identify technical risks. Their goal is to deliver reliable, maintainable code while reducing cycle time from idea to production.
 
+### QA/Testing
+QA/Testing specialists validate product quality, ensure acceptance criteria are met, and identify defects before release. They design and execute test plans, perform manual and automated testing, report and track defects, and participate in release readiness reviews.
+
+### UX/UI Designer
+UX/UI Designers lead the creation of intuitive, accessible interfaces that align with user needs and business goals. They develop wireframes, flows, and prototypes, facilitate design reviews, maintain the design system, and advocate for accessibility best practices.
+
+### DevOps Engineer
+DevOps Engineers ensure robust, reliable build/deployment processes and infrastructure. They configure and maintain CI/CD pipelines, automate testing and deployments, monitor and respond to incidents, and enable continuous delivery.
+
+### Business Analyst
+Business Analysts translate business needs into actionable requirements and clarify objectives and measures of success. They gather and document requirements, analyze business processes, support user story creation, and bridge communication between business and technical teams.
+
+### Support Lead
+Support Leads act as the main point of contact for customer feedback and incidents post-release. They triage and escalate user issues, ensure support readiness prior to launches, provide feedback on recurring user pain points, and channel user insights back to the team.
+
+### Security Lead
+Security Leads oversee security requirements, review architectures, and manage security incidents. They define and monitor security controls, lead response to security issues, promote best practices across the team, and ensure secure development practices.
+
+For detailed responsibilities, goals, and interaction patterns of each role, see **[Roles and Personas](octoacme-roles-and-personas.md)**.
+
 ## Documentation Index
 
 Our process documentation is organized to guide you through the complete project lifecycle:
@@ -45,7 +65,7 @@ Our process documentation is organized to guide you through the complete project
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** - A concise introduction to how OctoAcme runs projects, including our principles, core roles, key artifacts, lifecycle phases, and communication cadence. Start here for a high-level understanding.
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed definitions of the three key roles (Developers, Product Managers, Project Managers) including responsibilities, goals, and typical communication patterns.
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Comprehensive definitions of all team roles including Developers, Product Managers, Project Managers, QA/Testing, UX/UI Designer, DevOps Engineer, Business Analyst, Support Lead, and Security Lead. Includes responsibilities, goals, and typical communication patterns for each role.
 
 ### Project Lifecycle Guides
 
@@ -61,11 +81,23 @@ Our process documentation is organized to guide you through the complete project
 
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** - How to capture learnings and convert them into actionable improvements through structured retrospectives after sprints, releases, or incidents.
 
+### Team Collaboration & Onboarding
+
+- **[Cross-Functional Handoff Checklist](octoacme-cross-functional-handoffs.md)** - Comprehensive checklists for smooth transitions between roles (Product Manager ↔ Designer ↔ Developer ↔ QA ↔ DevOps ↔ Support ↔ Security). Includes best practices and common anti-patterns to avoid.
+
+- **[Requirements Clarification Checklist](octoacme-requirements-clarification.md)** - Structured approach to gathering, clarifying, and validating requirements. Covers functional and non-functional requirements, acceptance criteria, dependencies, and validation processes.
+
+- **[Cross-Role Onboarding Best Practices](octoacme-cross-role-onboarding.md)** - General principles and role-specific onboarding checklists for all team roles. Includes guidance for the first day, week, and month, with success metrics and continuous improvement practices.
+
+- **[Role-Specific Onboarding Templates](octoacme-role-onboarding-templates.md)** - Ready-to-use onboarding templates for UX/UI Designer, DevOps Engineer, Business Analyst, Support Lead, and Security Lead with week-by-week checklists and key resources.
+
 ## How to Use This Documentation
 
-- **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach, then explore [Roles and Personas](octoacme-roles-and-personas.md) to understand your role.
+- **New to OctoAcme?** Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our approach, then explore [Roles and Personas](octoacme-roles-and-personas.md) to understand team roles. Use the [Cross-Role Onboarding Best Practices](octoacme-cross-role-onboarding.md) and [Role-Specific Onboarding Templates](octoacme-role-onboarding-templates.md) for structured onboarding.
 
 - **Starting a new project?** Follow the lifecycle guides in order: [Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution](octoacme-execution-and-tracking.md) → [Release](octoacme-release-and-deployment.md) → [Retrospective](octoacme-retrospective-and-continuous-improvement.md).
+
+- **Managing cross-functional work?** Use the [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoffs.md) to ensure smooth transitions between roles, and the [Requirements Clarification Checklist](octoacme-requirements-clarification.md) to reduce ambiguity and rework.
 
 - **Need specific guidance?** Jump directly to the relevant guide, such as [Risk Management](octoacme-risks-and-communication.md) for handling project risks or [Release Guide](octoacme-release-and-deployment.md) for deployment procedures.
 

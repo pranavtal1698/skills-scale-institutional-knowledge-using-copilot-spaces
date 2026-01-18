@@ -20,8 +20,11 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (coordinated with Security Lead)
 - Manual QA for feature acceptance when needed
+- Design review and accessibility testing (coordinated with UX/UI Designer)
+
+For comprehensive handoff practices between roles, see [Cross-Functional Handoff Checklist](octoacme-cross-functional-handoffs.md).
 
 ## Reporting & Metrics
 - Track velocity and burndown
